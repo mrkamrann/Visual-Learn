@@ -1,6 +1,6 @@
-# LearnVisual
+# VisualLearn
 
-LearnVisual is an interactive platform designed to facilitate learning of sorting algorithms such as Bubble, Selection, Insertion, Quick, Merge, and Heap through dynamic visual aids. With customizable learning features and a user-friendly design, learners can adjust array sizes and sorting speeds to personalize their learning experience.
+VisualLearn is an interactive platform designed to facilitate learning of sorting algorithms such as Bubble, Selection, Insertion, Quick, Merge, and Heap through dynamic visual aids. With customizable learning features and a user-friendly design, learners can adjust array sizes and sorting speeds to personalize their learning experience.
 
 <img src="/assets/Capture.JPG">
 
